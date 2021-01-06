@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<div style="display:flex">
+<div style="display:flex" class="d-flex">
 <div>
 
 ⚡ I’m working in Shenzhen now
@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/SilurianYang/uni-simple-router">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilurianYang&repo=uni-simple-router" />
 </a>
-
