@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 <div>
-
-* ⚡ I’m working in Shenzhen now
+  
 * 😄 I like open source please contact me if you need
 * 🌱 And working some private projects
 * 📫 How to reach me: QQ `undefined`
