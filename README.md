@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilurianYang&repo=uni-simple-router" />
 </a>
 <a href="https://github.com/SilurianYang/router-v3-example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilurianYang&repo=my-min-vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilurianYang&repo=router-v3-example" />
 </a>
