@@ -28,10 +28,14 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilurianYang&count_private=true&show_icons=true&bg_color=50,9C27B0,F44336&title_color=FFEB3B&text_color=fff&icon_color=8BC34A"/>
   <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SilurianYang&layout=compact&langs_count=8&bg_color=50,9C27B0,F44336&title_color=FFEB3B&text_color=fff"/>
 </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilurianYang"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilurianYang"/>
 </p>
 
-## Star History
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/SilurianYang/SilurianYang/main/assets/github-contribution-grid-snake.svg)
+
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SilurianYang/uni-simple-router&type=Date)](https://star-history.com/#SilurianYang/uni-simple-router&Date)
 
@@ -43,3 +47,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/SilurianYang/router-v3-example">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilurianYang&repo=router-v3-example" />
 </a>
+
