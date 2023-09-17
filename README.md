@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/SilurianYang/SilurianYang/output/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/SilurianYang/SilurianYang/output/github-contribution-grid-snake.svg)
 
 ### Star History
 
